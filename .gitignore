@@ -1,0 +1,14 @@
+# Dataset
+dataset/
+data/
+
+# Models
+*.h5
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# Colab
+*.ipynb_checkpoints
