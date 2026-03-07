@@ -21,3 +21,5 @@ Kaggle Dogs vs Cats dataset (not included due to size).
 ## Tech Stack
 
 TensorFlow, Keras, Scikit-learn, Matplotlib, Google Colab (GPU)
+
+......................................................................................................................................................................
